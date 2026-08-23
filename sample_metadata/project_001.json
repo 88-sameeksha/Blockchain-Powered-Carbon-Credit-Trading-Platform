@@ -1,0 +1,11 @@
+{
+  "projectName": "Solar Energy Project",
+  "projectType": "Renewable Energy",
+  "country": "India",
+  "vintageYear": 2026,
+  "methodology": "SIMULATED - educational example; not an official registry methodology",
+  "simulatedVerificationStatus": "SIMULATED_VERIFIED_FOR_CLASSROOM_DEMO_ONLY",
+  "co2eQuantityTonnes": 10,
+  "documentHash": "QmSIMULATEDPROJECT001",
+  "disclaimer": "This file represents simulated project metadata and does not establish an officially verified carbon credit."
+}
